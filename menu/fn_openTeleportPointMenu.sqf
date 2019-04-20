@@ -21,4 +21,4 @@ player addAction["<t color='#d2a1f4'>set Teleport5</t>", {vehicle player setVari
 
 
 
-player addAction["<t color='#ff002e'>Close Teleport Point Menue</t>", "menue\fn_closeTeleportPointMenue.sqf"];
+player addAction["<t color='#ff002e'>Close Teleport Point Menu</t>", "menu\fn_closeTeleportPointMenu.sqf"];

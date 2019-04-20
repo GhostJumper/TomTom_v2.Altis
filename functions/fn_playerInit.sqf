@@ -1,5 +1,14 @@
-player setVariable["spawnPos", getPos player];
-player setVariable["telePos", getPos player];
-player setVariable["menueOpen", false];
+removeAllActions player;
+_posi = getPos player;
 
-_nul = []execVM "functions/fn_removeMenue.sqf";
+player setVariable["spawnPos", _posi];
+player setVariable["telePos", _posi];
+
+player setVariable["telePos1", _posi];
+player setVariable["telePos2", _posi];
+player setVariable["telePos3", _posi];
+player setVariable["telePos4", _posi];
+player setVariable["telePos5", _posi];
+
+//Menu that should Open
+player addAction["<t color='#0080ff'>Add Menue</t>", "menue\fn_openMainMenue.sqf"];

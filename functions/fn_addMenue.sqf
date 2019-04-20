@@ -7,4 +7,3 @@ player addAction["<t color='#0080ff'>Teleport with Map</t>", "functions\fn_mapTe
 player addAction["<t color='#0080ff'>Enable Bullet Trace</t>", {[player, 3] spawn BIS_fnc_traceBullets;}];
 player addAction["<t color='#0080ff'>Disable Bullet Trace</t>", {BIS_tracedShooter = nil;}];
 player addAction["<t color='#0080ff'>Remove Menue</t>", "functions\fn_removeMenue.sqf"];
-player setVariable["menueOpen", true];

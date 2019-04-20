@@ -1,1 +1,1 @@
-_nul = []execVM "functions/fn_playerInit.sqf";
+_nul = []execVM "functions\fn_playerInit.sqf";

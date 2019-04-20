@@ -1,0 +1,13 @@
+author = "xXGoatHumperXx";
+onLoadMission = "TomTom v2";
+onLoadName = "TomTom v2";
+loadScreen = "images\loadingScreen.jpg";
+overviewPicture = "images\zeus.jpg";
+overviewText = "TomTom's Sandbox";
+
+class Header
+{
+	gameType =  Zeus;	// Game type
+	minPlayers =  1;	// minimum number of players the mission supports
+	maxPlayers = 6;	// maximum number of players the mission supports
+};

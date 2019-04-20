@@ -1,9 +1,11 @@
 author = "xXGoatHumperXx";
+overviewPicture = "images\zeus.jpg";
+overviewText = "TomTom's Sandbox";
 onLoadMission = "TomTom v2";
 onLoadName = "TomTom v2";
 loadScreen = "images\loadingScreen.jpg";
-overviewPicture = "images\zeus.jpg";
-overviewText = "TomTom's Sandbox";
+onLoadIntro = "TomTom v2";
+
 
 class Header
 {

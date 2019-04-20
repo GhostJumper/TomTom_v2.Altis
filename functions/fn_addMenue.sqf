@@ -1,6 +1,3 @@
-
-
-
 removeAllActions player;
 player addAction["<t color='#59b300'>Arsenal</t>", {["Open",true] spawn BIS_fnc_arsenal;}];
 player addAction["<t color='#d9006c'>Go to Spawn</t>", {player setPos ( player getVariable "spawnPos" );}];

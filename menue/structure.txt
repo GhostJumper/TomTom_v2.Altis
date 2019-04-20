@@ -1,0 +1,35 @@
+-MainMenue
+|-Arsenal
+|-Teleport with Map(without Vehicle)
+|-------TeleportMenue
+|       |-Teleport with Map (only Player)
+|       |-Teleport with Map (with Vehicle)
+|       |-Teleport to Spawn (only Player)
+|       |-Teleport to Spawn (with Vehicle)
+|       |-----TeleportPointMenue
+|       |     |-Teleport1
+|       |     |-set Teleport1
+|       |     |-.....
+|       |     |-Teleport5
+|       |     |-set Teleport5
+|       |     |-Close TeleportPointMenu
+|       |-Close TeleportMenue
+|
+|-------PlayerMenue
+|       |-Enable God
+|       |-Disable God
+|       |-Enable Stamina
+|       |-Disable Stamina
+|       |-Close PlayerMenue
+|
+|-------VehicleMenue
+|       |-//WIP
+|       |-Close VehicleMenue
+|
+|-------EnvironmentMenue
+|       |-Enable Bullet Trace
+|       |-Disable Bullet Trace
+|       |-//WIP
+|       |-Close EnvironmentMenue
+|
+|-Close MainMenue

@@ -1,7 +1,4 @@
 openMap true;
 sleep 1;
 
-while{visibleMap} do {
-  onMapSingleClick "player setPos _pos; onMapSingleClick ' '; true;";
-  sleep 5;
-}
+onMapSingleClick "player setPos _pos; onMapSingleClick ' '; true;";

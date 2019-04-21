@@ -4381,7 +4381,7 @@ class Mission
 			colorName="ColorWEST";
 			a=9;
 			b=17;
-			angle=224.99989;
+			angle=224.99988;
 			id=251;
 		};
 		class Item38
@@ -4818,7 +4818,7 @@ class Mission
 			colorName="ColorWEST";
 			a=15;
 			b=40;
-			angle=224.99989;
+			angle=224.99988;
 			id=261;
 		};
 		class Item48
@@ -5008,7 +5008,7 @@ class Mission
 			colorName="ColorEAST";
 			a=10;
 			b=90;
-			angle=224.99989;
+			angle=224.99988;
 			id=273;
 		};
 		class Item60
@@ -5070,7 +5070,7 @@ class Mission
 			colorName="ColorGUER";
 			a=12;
 			b=24;
-			angle=224.99989;
+			angle=224.99988;
 			id=277;
 		};
 		class Item64
@@ -5130,7 +5130,7 @@ class Mission
 			colorName="ColorCIV";
 			a=4;
 			b=6;
-			angle=224.99991;
+			angle=224.99989;
 			id=283;
 		};
 		class Item68
@@ -5160,7 +5160,7 @@ class Mission
 			colorName="ColorCIV";
 			a=9;
 			b=11;
-			angle=224.99989;
+			angle=224.99988;
 			id=285;
 		};
 		class Item70
@@ -5222,7 +5222,7 @@ class Mission
 			colorName="ColorWEST";
 			a=10;
 			b=23;
-			angle=224.99989;
+			angle=224.99988;
 			id=289;
 		};
 		class Item74
@@ -5293,7 +5293,7 @@ class Mission
 			colorName="ColorWEST";
 			a=14;
 			b=58;
-			angle=224.99989;
+			angle=224.99988;
 			id=296;
 		};
 		class Item78
@@ -5355,7 +5355,7 @@ class Mission
 			colorName="ColorEAST";
 			a=11;
 			b=22;
-			angle=224.99989;
+			angle=224.99988;
 			id=300;
 		};
 		class Item82
@@ -5408,7 +5408,7 @@ class Mission
 			colorName="ColorEAST";
 			a=9;
 			b=17;
-			angle=224.99998;
+			angle=224.99997;
 			id=303;
 			atlOffset=0.00033378601;
 		};
@@ -5455,7 +5455,7 @@ class Mission
 			colorName="ColorGUER";
 			a=9;
 			b=11;
-			angle=224.99989;
+			angle=224.99988;
 			id=306;
 			atlOffset=3.8146973e-006;
 		};
@@ -5532,7 +5532,7 @@ class Mission
 			colorName="ColorCIV";
 			a=4;
 			b=12;
-			angle=224.99989;
+			angle=224.99988;
 			id=311;
 		};
 		class Item93
@@ -5645,7 +5645,7 @@ class Mission
 			colorName="ColorWEST";
 			a=15;
 			b=40;
-			angle=104.99995;
+			angle=104.99994;
 			id=318;
 			atlOffset=0.00032424927;
 		};

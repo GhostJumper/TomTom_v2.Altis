@@ -11,4 +11,4 @@ player setVariable["telePos4", _posi];
 player setVariable["telePos5", _posi];
 
 //Menu that should Open
-player addAction["<t color='#59b300'>Open Menue</t>", "menu\fn_openMainMenu.sqf"];
+player addAction["<t color='#59b300'>Open Menu</t>", "menu\fn_openMainMenu.sqf"];

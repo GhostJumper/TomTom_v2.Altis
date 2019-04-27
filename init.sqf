@@ -1,2 +1,3 @@
 nopop = true;
-_0 = [350,iCenter] execVM "functions\fn_resetPopupTargets.sqf";
+_nul = []execVM "functions\fn_resetPopupTargets1.sqf";
+_nul = []execVM "functions\fn_resetPopupTargets2.sqf";
